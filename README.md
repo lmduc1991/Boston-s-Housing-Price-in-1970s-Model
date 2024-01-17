@@ -2,7 +2,7 @@
 
 ### **Project Overview**
 
-The purpose of this project is mainly for learning. In this project, the goal was to create a multiple linear regression to predict the median house value in suburbs of Boston in 70s by ultilizing a copy of **UCI ML housing dataset** which was taken from [kaggle website](https://www.kaggle.com/datasets/heptapod/uci-ml-datasets). With 3 selected variables, the model had R squared around 0.70 on training data and 0.61 on test data which means at least 61% of the variation of median house value is explained by the model.
+The purpose of this project is mainly for learning. In this project, the goal was to create a multiple linear regression to predict the median house value in suburbs of Boston in 70s by utilizing a copy of **UCI ML housing dataset** which was taken from [kaggle website](https://www.kaggle.com/datasets/heptapod/uci-ml-datasets). With 3 selected variables, the model had R squared around 0.70 on training data and 0.61 on test data which means at least 61% of the variation of median house value is explained by the model.
 
 ### **Business Understanding**
 
